@@ -1,0 +1,53 @@
+nav{
+    flex:1;
+    background-color: rgb(213, 131, 101);
+    padding: 40px;
+    border-radius: 10px;
+    margin-right: 45px;
+}
+
+.card{
+    background-color: rgb(213, 131, 101);
+    margin: 50px;
+}
+body{
+    background-color: black;
+}
+.nav-item a{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    padding-left: 15px;
+}
+.container-info {
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    padding: 20px; 
+    background-color:black; 
+}
+.card-img{
+    flex: 1;
+    margin-left: 35px;
+    width: 30%;
+}
+.card-title{
+    flex: 1;
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 45px;
+}
+.card-text{
+    flex: 1;
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 45px;
+}
+.dropdown-menu{
+    background-color: rgb(213, 131, 101);
+}
+li a{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    padding-left: 15px;
+}
+
